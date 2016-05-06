@@ -1,7 +1,10 @@
 ---
 layout: index
-title: Lorem Restaurant is a fusion between styles
+title: Title
 ---
+
+### Title
+
 Welcome to {{ site.details.name }} bla bla mission statement.
 
 Some more text about how this all works.
