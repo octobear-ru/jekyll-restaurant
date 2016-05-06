@@ -3,7 +3,7 @@ layout: index
 title: Title
 ---
 
-### Название
+### 2
 
 Welcome to {{ site.details.name }} bla bla mission statement.
 
